@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/alexellis/inlets/pkg/client"
-	"github.com/alexellis/inlets/pkg/server"
+	"github.com/kenfdev/inlets/pkg/client"
+	"github.com/kenfdev/inlets/pkg/server"
 )
 
 var (

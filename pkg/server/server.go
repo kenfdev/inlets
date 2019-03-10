@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/alexellis/inlets/pkg/transport"
-	"github.com/alexellis/inlets/pkg/types"
 	"github.com/gorilla/websocket"
+	"github.com/kenfdev/inlets/pkg/transport"
+	"github.com/kenfdev/inlets/pkg/types"
 	"github.com/twinj/uuid"
 )
 

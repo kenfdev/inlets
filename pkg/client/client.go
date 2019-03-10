@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/alexellis/inlets/pkg/transport"
 	"github.com/gorilla/websocket"
+	"github.com/kenfdev/inlets/pkg/transport"
 	"github.com/pkg/errors"
 )
 
